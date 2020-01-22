@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_4_Kruskal_Algorithm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_1_Minimal_Forest", "Problem_1_Minimal_Forest\Problem_1_Minimal_Forest.csproj", "{794779F9-59D1-4244-A05C-A0464B8B68F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_2_Floyd", "Problem_2_Floyd\Problem_2_Floyd.csproj", "{9BA24BF5-9B78-400A-AF39-0A03EDCF7611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_3_Blocked_Roads", "Problem_3_Blocked_Roads\Problem_3_Blocked_Roads.csproj", "{700F369D-0BB1-40A2-AB4F-B32C29D7F1ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{794779F9-59D1-4244-A05C-A0464B8B68F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794779F9-59D1-4244-A05C-A0464B8B68F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794779F9-59D1-4244-A05C-A0464B8B68F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA24BF5-9B78-400A-AF39-0A03EDCF7611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA24BF5-9B78-400A-AF39-0A03EDCF7611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA24BF5-9B78-400A-AF39-0A03EDCF7611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA24BF5-9B78-400A-AF39-0A03EDCF7611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700F369D-0BB1-40A2-AB4F-B32C29D7F1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700F369D-0BB1-40A2-AB4F-B32C29D7F1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700F369D-0BB1-40A2-AB4F-B32C29D7F1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700F369D-0BB1-40A2-AB4F-B32C29D7F1ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
